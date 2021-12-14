@@ -280,7 +280,7 @@ function isString( value ) {
  *   'Q♠' => 50
  *   'K♠' => 51
  */
-function getCardId( value ) {
+function getCardId(value ) {
   //throw new Error('Not implemented');
   let result;
     
