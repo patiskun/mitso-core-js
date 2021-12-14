@@ -34,7 +34,7 @@
  *   0    => 0
  */
 function getCircleCircumference( radius ) {
-  return 2 * Math.PI * radius;
+  return 2 * Math.PI *radius;
 }
 
 /**
